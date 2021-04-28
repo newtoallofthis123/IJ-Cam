@@ -19,6 +19,7 @@ This installs all the additional dependencies from node.js for electrom to run v
 You are free to tinker with the index.html as much as you want to change the ui.
 The theme is Dark by deflaut, but if you want a light theme, replace the index.html with the index.html in the build_assets folder.
 
+The executable file by deflaut installs IJ-Cam in C:\Program Files (x86)\IJ-Cam
 This is IJ-Cam 1.1.1 Hence there is no compiled executable you can run. 
 Hence to start IJ-Cam, you can run the already included
 
