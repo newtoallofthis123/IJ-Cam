@@ -1,7 +1,8 @@
                                                          IJ-Cam
 
 IJ-Cam is a free and open source camera/ mirror app which is light weight and not as bulky as windows camera.
-You can use IJ-Cam to check your camera before you join a major meeting for example or you can also use it as a mirror for makeup or whatever.
+You can use IJ-Cam to check your camera before you join a major meeting for example or you can also use it as a mirror for makeup or whatever. There is a option to enable picture in picture and use it as a camera screen when you are sharing your screen
+
 IJ-Cam is registered under the MIT lisence. It is open source and You are free to use it however you want.
 
 You can also use this online at https://newtoallofthis123.github.io/IJ-Cam or https://kutt.it/IJ-Cam or https://tinu.be/IJ-Cam
