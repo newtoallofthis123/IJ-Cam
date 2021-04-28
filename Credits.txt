@@ -1,0 +1,33 @@
+hokein: https://github.com/hokein
+jsquery: https://jsquery.com
+NoobScience: https://github.com/newtoallofthis123
+
+IJ-Cam is Developed using Electron and Node.js
+
+Electron: https://electronjs.org
+Node.js: https://nodejs.org
+
+IJ-Cam 1.1.1 can only be used by electron.
+Until I learn how to compile, It is a kind request for you to download Electron and node.js to use this.
+
+You can download nodejs for your distribution from here: https://nodejs.org/en/download/
+You can download Electron using Nodejs:
+
+npm install electron --save-dev
+ or
+npm install electron -g
+
+Tutorial: https://www.electronjs.org/docs/tutorial/installation
+
+This issue will be fixed in version 1.2.1
+
+Fork this project https://github.com/newtoallofthis123/IJ-Cam
+
+Until, then 
+                                                                    BYE
+------------------------------------__________________________________________________________________________----------------------------------------------------
+
+                                                                                                                                      NoobScience
+																												        A guy, who is a noob, but wants to be a pro
+																														wannabeprivate23579@tutanota.com
+																														https://newtoallofthis123.github.io

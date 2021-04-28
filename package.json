@@ -1,0 +1,8 @@
+{
+  "name": "IJ-Cam",
+  "version": "1.1.1",
+  "license": "MIT",
+  "description": "A simple Cam",
+  "author": "Noob Science <wannabeprivate23579@tutanota.com>",
+  "main": "main.js"
+}
