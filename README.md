@@ -6,6 +6,9 @@ IJ-Cam is registered under the MIT lisence. It is open source and You are free t
 
 You can also use this online at https://newtoallofthis123.github.io or https://kutt.it/IJ-Cam or https://tinu.be/IJ-Cam
 
+![Image](https://github.com/newtoallofthis123/IJ-Cam/blob/main/build_assets/icon.ico)
+
+
 To have a more stable, secure and good experince, please run the 
 
 - first_run.bat on Windows
